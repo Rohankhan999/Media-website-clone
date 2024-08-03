@@ -1,0 +1,147 @@
+body {
+    margin: auto;
+
+}
+
+.container {
+    background-color: black;
+    width: 100%;
+    height: 2300px;
+    margin: auto;
+}
+
+button {
+    float: left;
+    margin-left: 30px;
+    margin-top: 40px;
+    background-color: whitesmoke;
+    color: black;
+    padding-left: 20px;
+    padding-right: 20px;
+    height: 50px;
+    border-radius: 50px;
+    border: none;
+}
+
+#btn {
+
+    float: left;
+    margin-left: 840px;
+    margin-top: 40px;
+    background-color: rgb(27, 23, 23);
+    color: whitesmoke;
+    padding-left: 20px;
+    padding-right: 20px;
+    height: 50px;
+    border-radius: 50px;
+    border: none;
+
+}
+
+img {
+    float: left;
+}
+
+hr {
+    float: left;
+    width: 100%;
+}
+
+.storypage {
+    width: 100%;
+    height: auto;
+    background-color: black;
+}
+
+h1 {
+    display: flex;
+    flex-direction: column;
+    float: left;
+    margin-top: 70px;
+    font-size: 80px;
+    margin-left: 50PX;
+    color: whitesmoke;
+    font-family: 'Courier New', Courier, monospace;
+    font-weight: bolder;
+    transition: 2s
+}
+h1:hover{
+    color: black;
+    transition:2s;
+}
+
+
+p {
+    background-color: black;
+    font-family: sans-serif;
+    width: 900px;
+    color: whitesmoke;
+    float: left;
+    text-align: left;
+    font-size: 30px;
+    margin-left: 50px;
+    margin-top: 0px;
+}
+
+.ptwo {
+    width: 670px;
+    color: whitesmoke;
+    float: left;
+    margin-top: 0px;
+    text-align: left;
+    font-size: 30px;
+    margin-left: 50px;
+    background-color: gray;
+
+}
+.side1{
+    width:100%;
+    height:200px;
+    border: solid whitesmoke;
+    float: left;
+    transition: 2s;
+    background-color:black;
+    
+}
+.side1:hover{
+    transition: 2s;
+    color:black;
+    background-color: whitesmoke;
+}
+.side2{
+    width:100%;
+    height:200px;
+    border: solid whitesmoke;
+    float: left;
+}
+.side2:hover{
+    transition: 2s;
+    color:black;
+    background-color: whitesmoke;
+}
+.side3{
+    width:100%;
+    height:200px;
+    border: solid whitesmoke;
+    float: left;
+}
+.side3:hover{
+    transition: 2s;
+    color:black;
+    background-color: whitesmoke;
+}
+#head1{
+    color: whitesmoke;
+}
+ul li {
+    float: left;
+    list-style: none;
+    margin-left: 30px;
+    font-family: 'Courier New', Courier, monospace;
+    margin-top: 40px;
+    font-weight: 600;
+}
+.list{
+    margin-left:700px;
+ 
+}
